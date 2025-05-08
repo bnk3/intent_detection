@@ -105,4 +105,4 @@ See [`requirements.txt`](./requirements.txt) for full list.
 
 ## 📝 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [bnk3]
