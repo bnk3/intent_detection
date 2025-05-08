@@ -3,7 +3,7 @@
 A web-based **Intent Detection System** powered by **BERT** for classifying user queries into predefined intents. This project uses the [CLINC150](https://huggingface.co/datasets/clinc_oos) dataset and fine-tunes a BERT model to accurately predict the intent of a user input in real time through a clean, interactive dashboard.
 
 <p align="center">
-  <img src="static/preview.png" alt="Intent Prediction Dashboard Screenshot" width="80%">
+  <img src="templates/preview.png" alt="Intent Prediction Dashboard Screenshot" width="80%">
 </p>
 
 ---
