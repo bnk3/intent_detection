@@ -65,7 +65,7 @@ And get predictions like:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/intent-detection-dashboard.git
+git clone https://github.com/bnk3/intent-detection-dashboard.git
 cd intent-detection-dashboard
 
 # Create environment
